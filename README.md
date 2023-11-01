@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Air Pollution Analysis in Tamil Nadu, India</title>
-</head>
+
 <body>
 <h1>Air Pollution Analysis in Tamil Nadu, India</h1>
 
