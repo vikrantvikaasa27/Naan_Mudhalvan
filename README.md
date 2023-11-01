@@ -14,13 +14,11 @@
   <li>scikit-learn</li>
 </ul>
 
-<p>To run the code, you will need to have Python and these libraries installed. You can install them with the following command:</p>
+<p>To run the code, you will need to have Python and these libraries installed and the dataset. You can install them with the following command:</p>
 
 <pre>pip install pandas numpy matplotlib seaborn scikit-learn</pre>
 
-<p>Once you have installed the necessary dependencies, you can run the code by executing the following command:</p>
-
-<pre>python main.py</pre>
+<p>Once you have installed the necessary dependencies, </p>
 
 <p>This will produce a number of outputs, including:</p>
 
